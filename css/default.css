@@ -13,10 +13,15 @@ body{
 header{
   padding:10px;
   text-align: center;
-  background-color: orange;
+  background-color: red;
 }
 
 section{
+  padding: 10px;
+  background-color: orange;
+}
+
+aside{
   padding: 10px;
   background-color: green;
 }
