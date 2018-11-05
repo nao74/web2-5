@@ -39,7 +39,7 @@ footer{
     }    
   }
 
-@media screen and (min-width:64px)
+@media screen and (min-width:640px)
   {
     aside{
       width: calc(50%-20px);
